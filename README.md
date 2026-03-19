@@ -26,7 +26,6 @@ rakhadeto.github.io/
 │   └── style.css       # All styles & animations
 ├── JavaScript/
 │   └── script.js       # Cursor & scroll reveal logic
-└── Assets/             # Images & other assets
 ```
 
 ---
