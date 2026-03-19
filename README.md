@@ -70,5 +70,3 @@ No build tools or dependencies needed — pure HTML/CSS/JS.
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-<p align="center">Designed & Built with ♥ by <a href="https://github.com/rakhadeto">Naufal Rakhadeto</a> · 2026</p>
