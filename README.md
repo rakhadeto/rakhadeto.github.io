@@ -63,5 +63,3 @@ cd rakhadeto.github.io
 No build tools or dependencies needed — pure HTML/CSS/JS.
 
 ---
-
----
